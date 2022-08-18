@@ -2,7 +2,6 @@ import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:firebase_image/firebase_image.dart';
-import 'package:firebase_image/src/firebase_image.dart';
 import 'package:firebase_image/src/image_object.dart';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
